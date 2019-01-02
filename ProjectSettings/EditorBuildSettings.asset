@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/loginScene.unity
+    guid: d8e42da7e83b39c4fb2758be1c650eca
+  - enabled: 1
+    path: Assets/Scenes/emailScene.unity
+    guid: 38be6870842b116498a85a456512b8e6
+  - enabled: 1
+    path: Assets/Scenes/EmailLoginScene.unity
+    guid: 92227304e2f1d8949be7a88a64720481
+  - enabled: 1
+    path: Assets/Scenes/menuScene.unity
+    guid: 939371935577b91479ca59023f6155b8
+  - enabled: 1
+    path: Assets/Scenes/ReviewScene.unity
+    guid: f80f3751024c45d45a3ddd6bd85a35d2
+  - enabled: 1
+    path: Assets/Scenes/DetailScene.unity
+    guid: 9cffb9b4073df4d46928b550b1adc382
+  - enabled: 1
+    path: Assets/CapChef_ARCamera.unity
+    guid: d089056f8d6ea54479f2565c9b4de74c
+  m_configObjects: {}

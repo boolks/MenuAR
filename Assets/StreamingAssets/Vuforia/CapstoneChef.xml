@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yang_text7" size="20.000000 10.927835" />
+    <ImageTarget name="yang_text6" size="20.000000 14.022988" />
+    <ImageTarget name="yang_text5" size="20.000000 10.104167" />
+    <ImageTarget name="yang_text4" size="20.000000 10.355330" />
+    <ImageTarget name="yang_text3" size="20.000000 9.272727" />
+    <ImageTarget name="yang_text2" size="20.000000 9.955556" />
+    <ImageTarget name="yang_text1" size="20.000000 7.672414" />
+    <ImageTarget name="Mongol_img5" size="20.000000 9.495549" />
+    <ImageTarget name="Mongol_img4" size="20.000000 9.552238" />
+    <ImageTarget name="Mongol_img3" size="20.000000 9.523809" />
+    <ImageTarget name="Mongol_img2" size="20.000000 9.492537" />
+    <ImageTarget name="Mongol_img1" size="20.000000 9.373135" />
+    <ImageTarget name="korea_img4" size="20.000000 18.257526" />
+    <ImageTarget name="korea_img3" size="20.000000 18.257526" />
+    <ImageTarget name="korea_img2" size="20.000000 18.145525" />
+    <ImageTarget name="korea_img1" size="20.000000 18.145525" />
+    <ImageTarget name="Mongol_text5" size="20.000000 10.459364" />
+    <ImageTarget name="Mongol_text4" size="20.000000 10.242214" />
+    <ImageTarget name="Mongol_text3" size="20.000000 10.845071" />
+    <ImageTarget name="Mongol_text2" size="20.000000 11.607843" />
+    <ImageTarget name="Mongol_text1" size="20.000000 10.413794" />
+  </Tracking>
+</QCARConfig>
